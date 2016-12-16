@@ -1,0 +1,5 @@
+D:\DoGame\MidiToPlistTool\obj\x86\Debug\MidiToPlistTool.csprojResolveAssemblyReference.cache
+D:\DoGame\MidiToPlistTool\bin\Debug\ConsoleApplication.exe
+D:\DoGame\MidiToPlistTool\bin\Debug\ConsoleApplication.pdb
+D:\DoGame\MidiToPlistTool\obj\x86\Debug\ConsoleApplication.exe
+D:\DoGame\MidiToPlistTool\obj\x86\Debug\ConsoleApplication.pdb
